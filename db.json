@@ -1,11 +1,70 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "administrator": [
+      {
+         "id": 1,
+         "name": "Jorge",
+         "lastName": "Torres",
+         "email": "admin",
+         "password": "admin",
+         "nameClub": "SC",
+         "nameSport": "Soccer",
+         "categories": [
+            {
+               "idCategory": "1",
+               "yearCategory": 2004
+            },
+            {
+               "idCategory": "2",
+               "yearCategory": 2005
+            }
+         ],
+         "transaction": [
+            {
+               "idTransaction": "1",
+               "nameStudent": "Alonso",
+               "publication": "2024-03-10",
+               "expiration": "2024-03-23"
+            },
+            {
+               "idTransaction": "2",
+               "nameStudent": "Miguel",
+               "publication": "2024-03-08",
+               "expiration": "2024-03-12"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Luis",
+         "lastName": "Aguirre",
+         "email": "admin1",
+         "password": "admin1",
+         "nameClub": "AL",
+         "nameSport": "Volley",
+         "categories": [
+            {
+               "idCategory": "1",
+               "yearCategory": 2006
+            },
+            {
+               "idCategory": "2",
+               "yearCategory": 2007
+            }
+         ],
+         "transaction": [
+            {
+               "idTransaction": "1",
+               "nameStudent": "Ariel",
+               "publication": "2024-03-10",
+               "expiration": "2024-03-23"
+            },
+            {
+               "idTransaction": "2",
+               "nameStudent": "Laura",
+               "publication": "2024-03-08",
+               "expiration": "2024-03-12"
+            }
+         ]
+      }
+   ]
 }
