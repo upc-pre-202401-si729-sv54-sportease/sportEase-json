@@ -10,26 +10,26 @@
          "nameSport": "Soccer",
          "categories": [
             {
-               "idCategory": "1",
+               "id": 1,
                "nameProfessor": "Riquelme",
                "yearCategory": 2004
             },
             {
-               "idCategory": "2",
+               "id": 2,
                "nameProfessor": "Quilca",
                "yearCategory": 2005
             }
          ],
          "transaction": [
             {
-               "idTransaction": "1",
-               "nameStudent": "Alonso",
+               "id": 1,
+               "id-student": "1",
                "publication": "2024-03-10",
                "expiration": "2024-03-23"
             },
             {
-               "idTransaction": "2",
-               "nameStudent": "Miguel",
+               "id": 2,
+               "id-student": "2",
                "publication": "2024-03-08",
                "expiration": "2024-03-12"
             }
@@ -45,26 +45,26 @@
          "nameSport": "Volley",
          "categories": [
             {
-               "idCategory": "1",
+               "id": 1,
                "nameProfessor": "Martin",
                "yearCategory": 2006
             },
             {
-               "idCategory": "2",
+               "id": 2,
                "nameProfessor": "Ramos",
                "yearCategory": 2007
             }
          ],
          "transaction": [
             {
-               "idTransaction": "1",
-               "nameStudent": "Ariel",
+               "id": 1,
+               "id-student": "3",
                "publication": "2024-03-10",
                "expiration": "2024-03-23"
             },
             {
-               "idTransaction": "2",
-               "nameStudent": "Laura",
+               "id": 2,
+               "id-student": "4",
                "publication": "2024-03-08",
                "expiration": "2024-03-12"
             }
