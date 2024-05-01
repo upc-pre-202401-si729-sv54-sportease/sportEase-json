@@ -11,10 +11,12 @@
          "categories": [
             {
                "idCategory": "1",
+               "nameProfessor": "Riquelme",
                "yearCategory": 2004
             },
             {
                "idCategory": "2",
+               "nameProfessor": "Quilca",
                "yearCategory": 2005
             }
          ],
@@ -44,10 +46,12 @@
          "categories": [
             {
                "idCategory": "1",
+               "nameProfessor": "Martin",
                "yearCategory": 2006
             },
             {
                "idCategory": "2",
+               "nameProfessor": "Ramos",
                "yearCategory": 2007
             }
          ],
